@@ -32,7 +32,7 @@
 		"forever-monitor": "^1.7.1",
 		"fs-extra": "^8.0.0",
 		"hot-shots": "^6.3.0",
-		"http-proxy": "^1.17.0",
+		"http-proxy": "^1.18.1",
 		"jest": "^24.0.0",
 		"lodash": "^4.17.10",
 		"node-fetch": "^2.2.1",
